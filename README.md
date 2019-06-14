@@ -1,21 +1,16 @@
 # social-like-site-php
 
 
-yeah whatever
-
 the code is kinda meh, not great.
-
-im remaking everything to be more OOP and a bit cleaner.
-
 wrote lots of this at like 4am while tired
 
 
+all_main.sql is the database for it.
+change db stuff in includes.php
 
 
 
 
+wrote lots of this while tired, plus im gonna remake it.
 
-
-
-
-use it for whatever you want, dont care tbh.
+use for whatever you want.
