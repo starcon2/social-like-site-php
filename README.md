@@ -9,8 +9,6 @@ all_main.sql is the database for it.
 change db stuff in includes.php
 
 
-
-
-wrote lots of this while tired, plus im gonna remake it.
+gonna rewrite for myself to be more OOP, and not as shit.
 
 use for whatever you want.
